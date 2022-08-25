@@ -4,16 +4,13 @@
 Bachelor of Technology in Industrial and Systems Engineering from IIT Kharagpur with a strong background in Maths, Analytics, and Finance, along with sound experience in leadership and team building.
 
 - As a data scientist, I can do the following for your organization:
+  - Properly formulate a business problem as a data science problem (regression, classification, time series, NLP, clustering, etc).
+  - Properly gather, clean, and prep the right data to answer your data science question.
+  - Properly build, tune, and validate the applicable model to answer your data science question.
+  - Properly deploy your model (this can look very different depending on your organization’s infrastructure) to help someone make better decisions and capture value.
+  - Communicate the value of your project, win over your stakeholders, and drive sustainable adoption of your project.
 
- - 1. Properly formulate a business problem as a data science problem (regression, classification, time series, NLP, clustering, etc).
- - 2. Properly gather, clean, and prep the right data to answer your data science question.
- - 3. Properly build, tune, and validate the applicable model to answer your data science question.
- - 4. Properly deploy your model (this can look very different depending on your organization’s infrastructure) to help someone make better decisions and capture value.
- - 5. Communicate the value of your project, win over your stakeholders, and drive sustainable adoption of your project.
-
-- Reach out to me : tarique.hussain186@gmail.com
 - Kaggle Profile: https://www.kaggle.com/tarique7
-
 - 📫 I'm availlable on tarique.hussain186@gmail.com
 
 <!---
