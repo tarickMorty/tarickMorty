@@ -13,6 +13,15 @@ Bachelor of Technology in Industrial and Systems Engineering from IIT Kharagpur 
 - Kaggle Profile: https://www.kaggle.com/tarique7
 - 📫 I'm availlable on tarique.hussain186@gmail.com
 
+
+- Create Repositories
+  - git clone https... to the terminal
+  - add files to the folder
+  - git add .
+  - git commit -m "message"
+  - git branch -M main
+  - git push
+
 <!---
 tarickMorty/tarickMorty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
